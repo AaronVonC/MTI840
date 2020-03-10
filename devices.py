@@ -4,9 +4,8 @@ from time import sleep
 import tqdm
 SEPARATOR="<SEPARATOR>"
 BUFFER_SIZE = 4096
-host = "192.168.56.1"
-port = 5001
-
+host = "10.196.113.18"
+port = 8080
 
 os.system("fswebcam -r 1280x720 --no-banner image/image.jpg")
 filename = "image/image.jpg"
