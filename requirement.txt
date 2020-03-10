@@ -1,0 +1,6 @@
+atom==0.4.3
+pkg-resources==0.0.0
+RPi.GPIO==0.7.0
+simple-http-server==0.1.7
+tqdm==4.43.0
+wiringpi==2.60.0
